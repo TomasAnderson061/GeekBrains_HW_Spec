@@ -1,0 +1,15 @@
+H:\!!!GeekBrains\HW\Specialization\bin\Debug\net6.0\Specialization.exe
+H:\!!!GeekBrains\HW\Specialization\bin\Debug\net6.0\Specialization.deps.json
+H:\!!!GeekBrains\HW\Specialization\bin\Debug\net6.0\Specialization.runtimeconfig.json
+H:\!!!GeekBrains\HW\Specialization\bin\Debug\net6.0\Specialization.dll
+H:\!!!GeekBrains\HW\Specialization\bin\Debug\net6.0\Specialization.pdb
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.csproj.AssemblyReference.cache
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.GeneratedMSBuildEditorConfig.editorconfig
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.AssemblyInfoInputs.cache
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.AssemblyInfo.cs
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.csproj.CoreCompileInputs.cache
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.dll
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\refint\Specialization.dll
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.pdb
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\Specialization.genruntimeconfig.cache
+H:\!!!GeekBrains\HW\Specialization\obj\Debug\net6.0\ref\Specialization.dll
